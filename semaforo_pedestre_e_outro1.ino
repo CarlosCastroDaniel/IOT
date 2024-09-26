@@ -53,7 +53,7 @@ void loop() {
 
   if (pedestrianDetected) {
     switchToPedestrianMode();
-    delay(1000); // Espera por 15 segundos
+    delay(15000); // Espera por 15 segundos
   } else {
     switchToCarMode();
   }
