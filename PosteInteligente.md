@@ -9,7 +9,7 @@ ao entardecer do dia, o poste aciona o led.
 - 2 resistor
 - 1 led
   
-  [circito](!PosteInteligente.png)
+  ![circito](PosteInteligente.png)
 
   # Explicação
   O fotoressistor detecta a intensidade da luz ambiente, caso esteja escurecendo, ele aciona o led.
