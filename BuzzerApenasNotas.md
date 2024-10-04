@@ -1,4 +1,4 @@
-# Buzzer, ispositivo para geração de sinais sonoros (beeps).
+# Buzzer, dispositivo para geração de sinais sonoros (beeps).
 
 ## Esse codigo apenas mostra como o buzzer funciona, nomeia algumas notas
 e toca elas.
